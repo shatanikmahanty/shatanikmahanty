@@ -1,7 +1,7 @@
 <h2 >Hi there 👋, I am Shatanik Mahanty</h2>
 <h3 >An enthusiatic Computer Science Student at Government College of Engineering and Leather Technology, Kolkata</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shatanikmahanty&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shatanikmahanty&label=Profile%20views&color=0e75b6&style=plastic" alt="view_counter" /> </p>
 
 <!-- - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist) -->
 - 🌱 I’m currently learning more about **Flutter, Universal Windows Platform, R Language, Android Development**
