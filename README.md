@@ -1,4 +1,4 @@
-<h2 >Hola 👋, I am Shatanik Mahanty</h2>
+<h2 >Hi there 👋, I am Shatanik Mahanty</h2>
 <h3 >An enthusiatic Computer Science Student at Government College of Engineering and Leather Technology, Kolkata</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shatanikmahanty&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
@@ -20,4 +20,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shatanikmahanty&show_icons=true&locale=en&count_private=true" alt="shatanikmahantystats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shatanikmahanty&show_icons=true&locale=en&count_private=true&theme=dracula" alt="shatanikmahantystats" /></p>
