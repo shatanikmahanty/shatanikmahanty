@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning more about **Flutter, Universal Windows Platform, R Language, Android Development**
 - 👨‍💻 Links to projects coming soon
 - 💬 Ask me about **Flutter, Java**
-- 📫 How to reach me [@Email](mailto://shatanikmahanty@gmail.com), [@LinkedIn](https://www.linkedin.com/in/shatanik-mahanty-9b063817a/)
+- 📫 How to reach me :
+  * [Email](mailto://shatanikmahanty@gmail.com)
+  * [LinkedIn](https://www.linkedin.com/in/shatanik-mahanty-9b063817a/)
 - ⚡ Fun fact: **You will always find me experimenting with flutter or android**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,11 +21,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/android.svg" hspace ="20" alt="Android" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" hspace ="20" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" hspace ="20" width="40" height="40"/> </a>
-<a href="https://www.stroustrup.com/C++.html" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%2B%2B.svg" hspace ="20" alt="C++" width="40" height="40"/> </a>
-<!--<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%23.svg" alt="C#" width="40" height="40"/> </a> -->
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/android.svg" alt="Android" width="40" height="40"/> </a>
+&emsp;&emsp;
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+&emsp;&emsp;
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+&emsp;&emsp;
+<!-- <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a>
+&emsp;&emsp; -->
+<a href="https://www.stroustrup.com/C++.html" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%2B%2B.svg" alt="C++" width="40" height="40"/> </a>
+&emsp;&emsp;
+<!-- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%23.svg" alt="C#" width="40" height="40"/> </a>
+&emsp;&emsp; -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/XML" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/xml.svg" alt="XML" width="40" height="40"/> </a>
+&emsp;&emsp;
 </p>
 
 <p> <h3> Github Stats :</h3> </p>
