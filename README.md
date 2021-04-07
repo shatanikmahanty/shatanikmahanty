@@ -7,8 +7,8 @@
 - 👨‍💻 Links to projects coming soon
 - 💬 Ask me about **Flutter, Java**
 - 📫 How to reach me :
-  * [Email](mailto://shatanikmahanty@gmail.com)
-  * [LinkedIn](https://www.linkedin.com/in/shatanik-mahanty-9b063817a/)
+  * [![Gmail Badge](https://img.shields.io/badge/-shatanikmahanty@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:shatanikmahanty@gmail.com)
+  * [![Linkedin Badge](https://img.shields.io/badge/-shatanikmahanty-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:chatterjeeu7@gmail.com)](https://www.linkedin.com/in/shatanik-mahanty-9b063817a/)
 - ⚡ Fun fact: **You will always find me experimenting with flutter or android**
 
 <h3 align="left">Connect with me:</h3>
