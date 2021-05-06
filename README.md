@@ -36,6 +36,14 @@
 &emsp;&emsp;
 </p>
 
+<h3 align="left">Coder Profiles:</h3>
+<p align="left"> 
+<a href="https://www.codingame.com/profile/4e28fa78ab50668f250c2650f9550fcb0694024" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Coding Game" width="40" height="40"/> </a>
+&emsp;&emsp;
+<a href="https://www.codewars.com/users/shatanik15/stats" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Codewars" width="40" height="40"/> </a>
+&emsp;&emsp;
+</p>
+
 <p> <h3> Github Stats :</h3> </p>
 
 <br>
