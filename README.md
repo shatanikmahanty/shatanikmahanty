@@ -26,6 +26,8 @@
 &emsp;&emsp;
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 &emsp;&emsp;
+ <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+&emsp;&emsp; 
 <!-- <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a>
 &emsp;&emsp; -->
 <a href="https://www.stroustrup.com/C++.html" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%2B%2B.svg" alt="C++" width="40" height="40"/> </a>
@@ -33,6 +35,8 @@
 <!-- <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%23.svg" alt="C#" width="40" height="40"/> </a>
 &emsp;&emsp; -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/XML" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/xml.svg" alt="XML" width="40" height="40"/> </a>
+&emsp;&emsp;
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/python.svg" alt="Python" width="130" height="40"/> </a>
 &emsp;&emsp;
 </p>
 
