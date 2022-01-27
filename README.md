@@ -3,7 +3,7 @@
 <h3 >An enthusiatic Computer Science Student at Government College of Engineering and Leather Technology, Kolkata</h3>
 
 <!-- - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist) -->
-- 🌱 I’m currently learning more about **Flutter, Assembly language, Android Development**
+- 🌱 I’m currently learning more about **Flutter, Scala, Android Development**
 - 👨‍💻 Links to projects coming soon
 - 💬 Ask me about **Flutter, Java**
 - 📫 How to reach me :
