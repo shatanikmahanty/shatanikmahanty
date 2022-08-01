@@ -15,7 +15,7 @@
 <p align="left" >
 <a href="https://discordapp.com/users/525512039641120774" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/discord.svg" alt="Discord" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/shatanikmahanty" target="blank"><img hspace ="20" align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/shatanikmahanty" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/insta.svg" alt="Insta" height="40" width="40" /></a>
+<a href="https://www.instagram.com/shatanik15/" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/insta.svg" alt="Insta" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
