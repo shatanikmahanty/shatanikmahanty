@@ -2,7 +2,7 @@
 <h2 >Hi there 👋, I am Shatanik Mahanty</h2>
 <h3 >An enthusiastic Computer Science Student at Government College of Engineering and Leather Technology, Kolkata</h3>
 
-<!-- - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist) -->
+- 🔭 I’m currently working at [OpenCodeyard](https://github.com/OpenCodeyard)
 - 🌱 I’m currently learning more about **Flutter, Scala, Android Development**
 - 👨‍💻 Links to projects coming soon
 - 💬 Ask me about **Flutter, Java**
