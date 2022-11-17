@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [OpenCodeyard](https://github.com/OpenCodeyard)
 - 🌱 I’m currently learning more about **Flutter, Scala, Android Development**
-- 👨‍💻 Links to projects coming soon
+- 👨‍💻 Check out the community project I participated in: https://github.com/gdgcloudkol/ccd2022-app
 - 💬 Ask me about **Flutter, Java**
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-shatanikmahanty@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:shatanikmahanty@gmail.com)
