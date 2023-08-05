@@ -2,10 +2,10 @@
 <h2 >Hi there 👋, I am Shatanik Mahanty</h2>
 <h3 >Flutter App Developer based out of Kolkata, India</h3>
 
-- 🔭 I’m currently working at [Alemeno]([https://github.com/OpenCodeyard](https://www.linkedin.com/company/alemeno))
-- 🌱 I’m currently learning more about **Flutter, Scala, Android Development**
+- 🔭 I’m currently working as a FLutter Developer at [Alemeno](https://www.linkedin.com/company/alemeno)
+- 🌱 I’m currently learning more about **Flutter, Django and PHP**
 - 👨‍💻 Check out the community project I created: https://github.com/gdgcloudkol/ccd2022-app
-- 💬 Ask me about **Flutter, Java, Firebase, Appwrite, Open Source, Communities**
+- 💬 Ask me about **Flutter, Java, Firebase, Appwrite, Open Source**
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-shatanikmahanty@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:shatanikmahanty@gmail.com)
   * [![Linkedin Badge](https://img.shields.io/badge/-shatanikmahanty-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:chatterjeeu7@gmail.com)](https://www.linkedin.com/in/shatanik-mahanty-9b063817a/)
