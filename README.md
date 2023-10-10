@@ -5,7 +5,7 @@
 <h2 >Hi there 👋, I am Shatanik Mahanty</h2>
 <h3 >Flutter App Developer based out of Kolkata, India</h3>
 
-- 🔭 Working as a Flutter Developer at [Alemeno](https://www.linkedin.com/company/alemeno)
+- 🔭 Working as Techincal Lead at [Alemeno](https://www.linkedin.com/company/alemeno)
 - 🌱 Learning more about **Flutter, Django, PHP, NextJs and Vercel**
 - 👨‍💻 Check out the community project I created: https://github.com/gdgcloudkol/ccd2022-app
 - 💬 Ask me about **Flutter, Java, Firebase, Appwrite, Open Source**
