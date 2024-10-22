@@ -56,10 +56,8 @@
 
 <p> <h3> Github Stats :</h3> </p>
 
-<br>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shatanikmahanty&show_icons=true&locale=en&count_private=true&theme=dracula" alt="shatanikmahantystats" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shatanikmahanty&show_icons=true&locale=en&count_private=true&theme=dracula" alt="shatanikmahantystats" /></p>
+<p> <h3> Holopins :</h3> </p>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shatanikmahanty&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![An image of @shatanik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shatanik)](https://holopin.io/@shatanik)
